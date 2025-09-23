@@ -1,6 +1,6 @@
-package exercicio1oo.classes;
+package exercicio2oo.classes;
 
-public class Aluno {
+class Aluno {
     String nome;
     int idade;
     String cpf;

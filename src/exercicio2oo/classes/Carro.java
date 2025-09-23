@@ -1,6 +1,6 @@
-package exercicio1oo.classes;
+package exercicio2oo.classes;
 
-public class Carro {
+class Carro {
     String marca;
     String modelo;
     int ano;

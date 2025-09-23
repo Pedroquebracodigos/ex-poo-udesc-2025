@@ -1,6 +1,6 @@
-package exercicio1oo.classes;
+package exercicio2oo.classes;
 
-public class Livro {
+class Livro {
     String titulo;
     String autor;
     int anoPublicacao;
