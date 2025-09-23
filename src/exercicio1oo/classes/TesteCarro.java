@@ -1,6 +1,4 @@
-package exercicio1oo.testes;
-
-import exercicio1oo.classes.Carro;
+package exercicio1oo.classes;
 
 public class TesteCarro {
     public static void main(String[] args) {

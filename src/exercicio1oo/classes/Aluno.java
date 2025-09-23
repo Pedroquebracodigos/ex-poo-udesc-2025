@@ -1,6 +1,6 @@
 package exercicio1oo.classes;
 
-class Pessoa {
+class Aluno {
     String nome;
     int idade;
     String cpf;
